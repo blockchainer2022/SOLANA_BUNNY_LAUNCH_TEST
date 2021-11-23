@@ -144,6 +144,7 @@ const Home = (props: HomeProps) => {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [itemsAvailable, setItemsAvailable] = useState(0);
   const [itemsRedeemed, setItemsRedeemed] = useState(0);
+   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [itemsRemaining, setItemsRemaining] = useState(0);
   const [days, setDays] = useState(0);
   const [hours, setHours] = useState(0);
